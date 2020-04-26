@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "db0v/daeJaioRG/oy7yrrArE12oNg7NsEFsKmcDKxFmMn/ukhlYuKeGU3k903O8gyVRkh9s6M8YERWtUiKCWww==",
+  "dgSpecHash": "rqlBktkMR2HcqRavN8421eDFGp0ARszcQxH1nQTHrL1zkhPUwybAu7QR10NQki5fDFGujyZwBsDhEIz+HSeLkg==",
   "success": true,
   "projectFilePath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
