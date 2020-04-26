@@ -5330,11 +5330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+      "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
       "projectName": "ECommerce.Api",
-      "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+      "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\obj\\",
+      "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5353,11 +5353,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-              "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+            "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+              "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
             },
-            "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
-              "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
+            "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+              "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
             }
           }
         }

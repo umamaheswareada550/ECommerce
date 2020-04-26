@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EkzoGw9JiTQQ5b5a/gc7hYQev9WvP3BziDlXyEj8jTi4dpW8Ye6Y1pPsmpXpUv6BiEMiTpDK3IxTrLtb0/f6w==",
+  "dgSpecHash": "db0v/daeJaioRG/oy7yrrArE12oNg7NsEFsKmcDKxFmMn/ukhlYuKeGU3k903O8gyVRkh9s6M8YERWtUiKCWww==",
   "success": true,
-  "projectFilePath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+  "projectFilePath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj": {}
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj": {}
   },
   "projects": {
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj": {
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
         "projectName": "ECommerce.Api",
-        "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+        "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Api\\obj\\",
+        "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+              "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
               },
-              "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
-                "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
+              "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+                "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "projectName": "ECommerce.Core",
-        "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\obj\\",
+        "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "projectName": "ECommerce.Infrastructure",
-        "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Infrastructure\\obj\\",
+        "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -160,8 +160,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-                "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+              "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+                "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
               }
             }
           }

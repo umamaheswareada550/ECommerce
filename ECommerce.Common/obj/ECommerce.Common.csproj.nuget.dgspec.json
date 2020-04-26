@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj": {}
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj": {}
   },
   "projects": {
-    "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj": {
+    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj",
+        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj",
         "projectName": "ECommerce.Common",
-        "projectPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj",
+        "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahesh's\\My Projects\\Angular8\\ECommerce\\ECommerce.Common\\obj\\",
+        "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
