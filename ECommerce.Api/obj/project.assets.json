@@ -9592,11 +9592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+      "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
       "projectName": "ECommerce.Api",
-      "projectPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
+      "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\ECommerce.Api.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\obj\\",
+      "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9615,11 +9615,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
-              "projectPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
+            "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+              "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj"
             },
-            "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
-              "projectPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
+            "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+              "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
             }
           }
         }
@@ -9684,7 +9684,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300-preview-015135\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,6 +1,6 @@
 namespace ECommerce.Api.DTOs
 {
-    public class ProductDto
+    public class ProductToReturnDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
