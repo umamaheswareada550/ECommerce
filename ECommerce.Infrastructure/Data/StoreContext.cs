@@ -27,10 +27,6 @@ namespace ECommerce.Infrastructure.Data
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
         }
-
-        //protected override void OnConfiguring(DbContextOptionsBuilder options)
-        //{
-        //    options.UseSqlServer(config["ConnectionStrings:DefaultConnection"]);
-        //}
+        
     }
 }

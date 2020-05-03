@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {}
+    "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {}
   },
   "projects": {
-    "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
+    "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectUniqueName": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "projectName": "ECommerce.Core",
-        "projectPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
+        "projectPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\obj\\",
+        "outputPath": "d:\\Mahesh's\\My Projects\\Angular\\ECommerce\\ECommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

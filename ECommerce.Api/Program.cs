@@ -3,6 +3,7 @@ using System.IO;
 using System.Threading.Tasks;
 using ECommerce.Infrastructure.Data;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Azure.Management.ResourceManager.Fluent;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,6 +17,7 @@ namespace ECommerce.Api
         public static async Task Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
+
             using (var scope = host.Services.CreateScope())
             {
                 var Services = scope.ServiceProvider;
@@ -36,23 +38,25 @@ namespace ECommerce.Api
             host.Run();
         }
 
-        
+
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseKestrel();
-                    webBuilder.UseContentRoot(Directory.GetCurrentDirectory());
-                    webBuilder.ConfigureAppConfiguration((WebHostBuilderContext hostingContext, IConfigurationBuilder configBuilder) =>
+                    webBuilder.UseKestrel()
+                    .UseContentRoot(Directory.GetCurrentDirectory())
+                    .ConfigureAppConfiguration((WebHostBuilderContext hostingContext, IConfigurationBuilder configBuilder) =>
                     {
-                        configBuilder.Sources.Clear();
+                        //configBuilder.Sources.Clear();
                         configBuilder
                                 .AddEnvironmentVariables()
                                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
                                 .AddJsonFile($"appsettings.{hostingContext.HostingEnvironment.EnvironmentName}.json", optional: true, reloadOnChange: true);
-                    });
-                    webBuilder.UseStartup<Startup>();
+                        var settings = configBuilder.Build();
+                        configBuilder.AddAzureAppConfiguration(settings["Azure:ConnectionStrings:AppConfig"]);
+                    })
+                    .UseStartup<Startup>();
                 });
     }
 }

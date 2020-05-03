@@ -21,10 +21,10 @@ D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\bin\Debug\net
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\bin\Debug\netcoreapp3.1\ECommerce.Core.dll
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\bin\Debug\netcoreapp3.1\ECommerce.Core.pdb
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.csprojAssemblyReference.cache
-D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.AssemblyInfoInputs.cache
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.AssemblyInfo.cs
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.csproj.CopyComplete
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.dll
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.pdb
 D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.genruntimeconfig.cache
+D:\Mahesh's\My Projects\Angular\ECommerce\ECommerce.Infrastructure\obj\Debug\netcoreapp3.1\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
