@@ -14,19 +14,12 @@ ul{
     margin-bottom: 0em;
 }
 
-a{
-    color: white;
-    text-decoration: none;
-}
-
 .menu{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-a:hover{
-text-decoration: none;
-color: #cce7f3;
-fill: #cce7f3;
+a, a:hover{
+    text-decoration: none;
 }
