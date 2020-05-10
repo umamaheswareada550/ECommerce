@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 using ECommerce.Infrastructure.Data;
+using Mahesh.MicroApp.Api.Extensions;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Azure.Management.ResourceManager.Fluent;
 using Microsoft.EntityFrameworkCore;
@@ -40,8 +41,9 @@ namespace ECommerce.Api
 
 
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
+        public static IHostBuilder CreateHostBuilder(string[] args=null,int httpsPort=5001) =>
             Host.CreateDefaultBuilder(args)
+                .UseMicroAppCore(args,httpsPort)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseKestrel()
