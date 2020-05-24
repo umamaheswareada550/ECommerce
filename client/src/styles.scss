@@ -23,3 +23,21 @@ ul{
 a, a:hover{
     text-decoration: none;
 }
+
+.uneditable-input:focus, input[type=number]:focus, input[type=search]:focus, input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, input[type=week]:focus, input[type=email]:focus, input[type=url]:focus, input[type=tel]:focus, input[type=color]:focus, input[type=date]:focus, input[type=time]:focus, input[type=datetime-local]:focus, input[type=month]:focus, textarea:focus {
+    border-color: #007db8;
+    box-shadow: 0 0 2px #1fb7ff;
+    outline: 0;
+}
+
+.uneditable-input, input[type=number], input[type=search], input[type=text], input[type=password], input[type=datetime], input[type=week], input[type=email], input[type=url], input[type=tel], input[type=color], input[type=date], input[type=time], input[type=datetime-local], input[type=month], select, textarea {
+    height: 34px;
+    color: #444;
+    border-radius: 1px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+}
